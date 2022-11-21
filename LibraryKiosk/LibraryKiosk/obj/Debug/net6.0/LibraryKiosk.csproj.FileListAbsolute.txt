@@ -1,0 +1,15 @@
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\bin\Debug\net6.0\LibraryKiosk.exe
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\bin\Debug\net6.0\LibraryKiosk.deps.json
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\bin\Debug\net6.0\LibraryKiosk.runtimeconfig.json
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\bin\Debug\net6.0\LibraryKiosk.dll
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\bin\Debug\net6.0\LibraryKiosk.pdb
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.csproj.AssemblyReference.cache
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.AssemblyInfoInputs.cache
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.AssemblyInfo.cs
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.csproj.CoreCompileInputs.cache
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.dll
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\refint\LibraryKiosk.dll
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.pdb
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\LibraryKiosk.genruntimeconfig.cache
+C:\Users\judge\source\repos\LibraryKiosk\LibraryKiosk\obj\Debug\net6.0\ref\LibraryKiosk.dll
